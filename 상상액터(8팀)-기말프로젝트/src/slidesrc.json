@@ -1,0 +1,15 @@
+{
+    "src": [
+        {"img" : "/slider2.png", "link" : "https://hsportal.hansung.ac.kr/ko/program/all/view/11077"},
+        {"img" : "/slider3.png", "link" : "https://hsportal.hansung.ac.kr/ko/program/all/view/10870"},
+        {"img" : "/slider4.png", "link" : "https://hsportal.hansung.ac.kr/ko/program/all/view/10962"},
+        {"img" : "/slider5.png", "link" : "https://hsportal.hansung.ac.kr/ko/program/all/view/10662"}
+    ],
+    "mon":[{"subject":"설계패턴",  "time":"18:00 - 19:30"}],
+    "tue" :[{"subject" : "No Schedule"}],
+    "wed" :[{
+        "subject":"웹프레임워크1", "time":"18:00 - 19:30"}],
+    "thu" :[{"subject":"시스템 프로그래밍", "time":"17:30 - 18:00"},{"subject":"네트워크 프로그래밍", "time":"18:00 - 19:30"}],
+    "fri" :[{"subject":"가상현실", "time":"13:00 - 15:00"}]
+
+}
